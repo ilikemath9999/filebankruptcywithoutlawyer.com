@@ -1,0 +1,16 @@
+{
+  "name": "How to File Bankruptcy Without a Lawyer",
+  "short_name": "filebankruptcywithoutlawyer.com",
+  "description": "Complete guide to filing bankruptcy pro se. Chapter 7 and Chapter 13 without an attorney, forms, fees, credit counseling, and common mistakes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
